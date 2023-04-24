@@ -3,6 +3,17 @@
 ## About:
 Welcome to my Tic Tac Toe game, which I created during my free time to expand my knowledge of JavaScript. This project allowed me to dive deeper into JavaScript and learn how to create a dynamic and interactive web application. As a fan of simple games, I chose to make a Tic Tac Toe game, which is a classic game that I and everyone used to play during our childhood. Through building this game, I have learned about the core concepts of JavaScript, including arrays, loops, and functions. I have also learned about the power of event listeners to create interactive and responsive web applications.
 
+## Features:
+Here are a few features of this webpage.
+1. A div tag to contain the game board and eight divs with the class "box" and unique IDs to represent the individual squares.
+2. Pseudo-classes to remove the right and bottom borders from the third and sixth boxes, respectively.
+3. An array to represent the game board, initially filled with null values.
+4. A function to add a click event listener to each box element and an event handler function to handle clicks on the boxes.
+5. Conditional statements to check if the box has already been clicked.
+6. Statements to update the game board, display the symbol of the current player, and check if the game has been won.
+7. A variable to store an array of winning combinations.
+8. A function to restart the game when the restart button is clicked. 
+
 ## Usage Instructions:
 
 ### Downloading or Cloning the Repository:
