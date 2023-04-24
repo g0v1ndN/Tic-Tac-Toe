@@ -13,7 +13,7 @@ Welcome to my Tic Tac Toe game, which I created during my free time to expand my
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command <i>"https://github.com/Govind-S-Nair/Tic-Tac-Toe"</i> to clone the repository to your local machine.
+2. Run the command <i>"git clone https://github.com/Govind-S-Nair/Tic-Tac-Toe"</i> to clone the repository to your local machine.
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
