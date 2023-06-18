@@ -1,4 +1,8 @@
 # Tic-Tac-Toe
+<div align="left">
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/open-source.svg" alt="open-source"/>
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/License-MIT-green.svg" alt="open-source"/>
+</div>
 
 ## About:
 Welcome to my Tic Tac Toe game, which I created during my free time to expand my knowledge of JavaScript. This project allowed me to dive deeper into JavaScript and learn how to create a dynamic and interactive web application. As a fan of simple games, I chose to make a Tic Tac Toe game, which is a classic game that I and everyone used to play during our childhood. Through building this game, I have learned about the core concepts of JavaScript, including arrays, loops, and functions. I have also learned about the power of event listeners to create interactive and responsive web applications.
