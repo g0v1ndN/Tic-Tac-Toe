@@ -32,6 +32,11 @@ Welcome to my Tic Tac Toe game, which I created during my free time to expand my
 
 ## Usage Instructions:
 
+### Prerequisites:
+- Basic HTML, CSS, and JavaScript Knowledge: Familiarity with HTML, CSS, and JavaScript concepts is essential for understanding the structure, styling, and interactivity of the project.
+- Text Editor or Integrated Development Environment (IDE): You'll need a code editor to make changes to the project files. Popular choices include Visual Studio Code, Sublime Text, or Atom.
+- Web Browser: You'll need a modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge) to view and test your changes.
+
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
 2. Click on "Download ZIP" to download a compressed zip file of the repository.
