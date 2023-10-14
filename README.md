@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/CSS-%232965F1?logo=css3&logoColor=white" alt="CSS"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-%23F0DB4F?logo=javascript&logoColor=black" alt="JS"/>
+      <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JS"/>
    </a>
 </div>
 
@@ -46,7 +46,8 @@ Welcome to my Tic Tac Toe game, which I created during my free time to expand my
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
 2. Run the command `git clone https://github.com/g0v1ndN/tic-tac-toe` to clone the repository to your local machine.
-<p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
+> [!NOTE]
+> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the [official website](https://git-scm.com).
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
